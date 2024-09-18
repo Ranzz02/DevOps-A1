@@ -1,1 +1,3 @@
-print("Hello, world from branch dev!")
+user = input("Enter name: ")
+
+print("Hello, " + user + " world!")
